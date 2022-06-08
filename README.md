@@ -1,5 +1,5 @@
 # Website-Template
-<li> This is a simple website template created using HTML and CSS.
+<li> This is a Website template created using HTML and CSS.
 <li> I used Font Awesome for the icons and simple css for designing purposes.
 
 ## What is HTML?
